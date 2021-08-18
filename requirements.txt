@@ -1,0 +1,4 @@
+selenium
+termcolor
+pyfiglet
+webdriver_manager
